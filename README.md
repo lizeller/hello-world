@@ -1,2 +1,2 @@
 # hello-world
-Writing a short description
+Writing a short description about hello-world
